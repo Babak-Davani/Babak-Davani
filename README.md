@@ -62,7 +62,7 @@ _Nov 2023_
 
 ## 🤝 Connect with Me
 
-Feel free to reach out to me on [LinkedIn](hhttps://www.linkedin.com/in/b-m-davani/).
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/b-m-davani/).
 
 
 ---
