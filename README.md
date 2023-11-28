@@ -54,6 +54,7 @@
 <div align="center">
   <p><img src="https://github.com/Babak-Davani/CtScan-CNN/blob/main/icons/Project%20logo.png" alt="project" width="80"></p>&nbsp;
 </div>
+
 _Nov 2023_
 - Developed a Convolutional Neural Network (CNN) using PyTorch for detecting and classifying traumatic abdominal injuries in CT scans, addressing a critical challenge in emergency medicine for prompt diagnosis.
 - Applied to a diverse dataset from the RSNA Abdominal Trauma Detection Challenge, encompassing various cases of blunt force abdominal trauma.
