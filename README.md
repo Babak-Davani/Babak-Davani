@@ -16,6 +16,7 @@
 ## 👩‍💻 Skills
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas"  alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
@@ -39,7 +40,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
 </div>
 
-- **Programming Languages:** `Python`, `R`, `SQL`
+- **Programming Languages:** `Python`, `R`, `SQL`: (`MySQL` , `PostgreSQL`)
 - **R Libraries:** `Tidyverse`, `ggplot2`, `igraph`, `statnet`, `rsiena`
 - **Data Analysis Libraries:** `NumPy`, `Pandas`, `SciPy`
 - **Visualization Tools:** `Tableau`, `Matplotlib`, `Plotly`, `Seaborn`
@@ -53,17 +54,16 @@
 ### Data Scientist | [Automated Detection of Traumatic Injuries in CT SCAN](https://github.com/Babak-Davani/CtScan-CNN)
 <div align="center">
   <p><img src="https://github.com/Babak-Davani/CtScan-CNN/blob/main/icons/Project%20logo.png" alt="project" width="80"></p>&nbsp;
-</div>
+</div> 
 
 _Nov 2023_
 - Developed a Convolutional Neural Network (CNN) using PyTorch for detecting and classifying traumatic abdominal injuries in CT scans, addressing a critical challenge in emergency medicine for prompt diagnosis.
 - Applied to a diverse dataset from the RSNA Abdominal Trauma Detection Challenge, encompassing various cases of blunt force abdominal trauma.
 - Achieved high model accuracy in classifying injuries in abdominal organs, with notable results including 98.57% for bowel injury and over 90% for various states of liver and kidney damage.
 
-
 ## 🤝 Connect with Me
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/b-m-davani/).
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/b-m-davani/) or [email](mailto:b.m.davani@gmail.com).
 
 
 ---
