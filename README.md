@@ -40,13 +40,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
 </div>
 
-- **Programming Languages:** `Python`, `R`, `SQL`: (`MySQL` , `PostgreSQL`)
-- **R Libraries:** `Tidyverse`, `ggplot2`, `igraph`, `statnet`, `rsiena`
-- **Data Analysis Libraries:** `NumPy`, `Pandas`, `SciPy`
-- **Visualization Tools:** `Tableau`, `Matplotlib`, `Plotly`, `Seaborn`
-- **Statistical Analysis:** `Power analysis`, `Effect sizes`, `Multivariate analysis`, `Predictive modeling techniques` (e.g., `ANOVA`, `regression`), `Social network analysis`, `Meta-analysis`
-- **Machine Learning Frameworks:** `TensorFlow`, `Scikit-learn`, `XGBoost`, `PyTorch`
-- **Big Data Technologies:** `AWS`, `Hadoop`, `Spark`, `Hive`, `Docker`
+- **Programming Languages:** Python, R, SQL: (MySQL, PostgreSQL)
+- **R Libraries:** Tidyverse, ggplot2, igraph, statnet, rsiena
+- **Data Analysis Libraries:** NumPy, Pandas, SciPy
+- **Visualization Tools:** Tableau, Matplotlib, Plotly, Seaborn
+- **Statistical Analysis:** Power analysis, Effect sizes, Multivariate analysis, Predictive modeling techniques (e.g., ANOVA, regression), Social network analysis, Meta-analysis
+- **Machine Learning Frameworks:** TensorFlow, Scikit-learn, XGBoost, PyTorch
+- **Big Data Technologies:** AWS, Hadoop, Spark, Hive, Docker
+
 
 
 ## 🔮 Projects
