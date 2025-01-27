@@ -5,13 +5,13 @@
 
 ## 😊 About Me
 
-🔍 As a dedicated and insightful Data Scientist, I bring a unique blend of healthcare expertise and advanced data science skills to the table. My journey began in the medical field, During my time at Tehran University of Medical Sciences, I achieved my MD and subsequently became a board-certified Anesthesiologist. This pivotal phase in my career was characterized by active participation in various clinical research teams, leading to significant contributions to peer-reviewed publications in the medical field.
+🔍 As a dedicated Data Scientist, I combine healthcare expertise with advanced data science skills. My journey began during my medical training, where I earned my MD and became a board-certified Anesthesiologist. This phase of my career involved providing patient care in the ICU and operating room, as well as actively engaging in clinical research, which led to significant contributions to peer-reviewed publications in the medical field.
 
-📊 Transitioning into the realm of data science, I have effectively utilized my skills in R, Python, and machine learning to drive data-driven solutions in healthcare and education sectors. My work as a Data Analyst in Canada has seen me develop robust data pipelines, engage in sophisticated social network analysis, and create dynamic visualizations to aid decision-making processes.
+📊 Transitioning into data science, I applied my strong analytical skills and attention to detail. I completed extensive formal training in data science and gained hands-on experience across diverse projects, focusing on the collection, analysis, and interpretation of complex datasets to derive actionable insights. This blend of rigorous training and practical experience has equipped me to tackle real-world data challenges with precision and innovation.
 
-💡 My passion lies in harnessing the power of data to uncover insights and guide informed decisions. With my foundation in research methodology and a keen eye for data-driven approaches, I am committed to leveraging my expertise to revolutionize patient care and tackle new challenges across various industries.
+💡 I am passionate about harnessing the power of data to uncover insights and inform decisions. With a solid foundation in research methodology and a data-driven approach, I am committed to leveraging my expertise to transform patient care and tackle challenges across various industries.
 
-🌐 Feel free to connect with me here on LinkedIn or check out my GitHub repository for a glimpse into my work and projects.
+🌐 Feel free to connect with me here or on LinkedIn, or explore my GitHub repository for a deeper look at my work and projects.
 
 ## 👩‍💻 Skills
 <div align="center">
